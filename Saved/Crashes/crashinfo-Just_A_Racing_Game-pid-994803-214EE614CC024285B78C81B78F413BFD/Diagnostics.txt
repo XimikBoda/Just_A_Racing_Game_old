@@ -1,0 +1,49 @@
+Generating report for minidump
+
+Application version 5.0.1.0
+ ... built from changelist 0
+
+OS version Linux 5.17.5-gentoo (network name: RubyOS.HomeNet)
+Running 6 x86_64 processors (12 logical cores)
+Exception was "SIGSEGV: invalid attempt to write memory at address 0x0000000000000003"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-Persona.so!FAnimationViewportClient::GetPreviewScene() const [/home/ruby/Downloads/UnrealEngine/Engine/Source/Editor/Persona/Private/AnimationEditorViewportClient.h:283]
+libUnrealEditor-Persona.so!FAnimationViewportClient::UpdateCameraSetup() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/Persona/Private/AnimationEditorViewportClient.cpp:1747]
+libUnrealEditor-Persona.so!TBaseFunctorDelegateInstance<void (), FDefaultDelegateUserPolicy, FAnimationViewportClient::HandleSkeletalMeshChanged(USkeletalMesh*, USkeletalMesh*)::$_1>::ExecuteIfSafe() const [/home/ruby/Downloads/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h:836]
+libUnrealEditor-Engine.so!TMulticastDelegate<void (), FDefaultDelegateUserPolicy>::Broadcast() const [/home/ruby/Downloads/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl:967]
+libUnrealEditor-Engine.so!USkeletalMesh::PostEditChangeProperty(FPropertyChangedEvent&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/SkeletalMesh.cpp:1507]
+libUnrealEditor-CoreUObject.so!UObject::PostEditChange() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/Obj.cpp:359]
+libUnrealEditor-Engine.so!FScopedSkeletalMeshPostEditChange::~FScopedSkeletalMeshPostEditChange() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/SkeletalMesh.cpp:400]
+libUnrealEditor-UnrealEd.so!UReimportFbxSkeletalMeshFactory::Reimport(UObject*, int) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/Factories/EditorFactories.cpp:6517]
+libUnrealEditor-UnrealEd.so!FReimportManager::Reimport(UObject*, bool, bool, FString, FReimportHandler*, int, bool, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/Editor.cpp:443]
+libUnrealEditor-UnrealEd.so!FReimportManager::ReimportMultiple(TArrayView<UObject*, int>, bool, bool, FString, FReimportHandler*, int, bool, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/Editor.cpp:692]
+libUnrealEditor-UnrealEd.so!FReimportManager::ValidateAllSourceFileAndReimport(TArray<UObject*, TSizedDefaultAllocator<32> >&, bool, int, bool, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/Editor.cpp:653]
+libUnrealEditor-ContentBrowserAssetDataSource.so!FAssetFileContextMenu::ExecuteReimportWithNewFile(int) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/Source/ContentBrowserAssetDataSource/Private/AssetFileContextMenu.cpp:1442]
+libUnrealEditor-ContentBrowserAssetDataSource.so!TBaseSPMethodDelegateInstance<false, FAssetFileContextMenu, (ESPMode)1, void (), FDefaultDelegateUserPolicy, int>::ExecuteIfSafe() const [/home/ruby/Downloads/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h:307]
+libUnrealEditor-Slate.so!SMenuEntryBlock::OnClicked(bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/MultiBox/SMenuEntryBlock.cpp:1153]
+libUnrealEditor-Slate.so!SMenuEntryBlock::OnMenuItemButtonClicked() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/MultiBox/SMenuEntryBlock.cpp:1107]
+libUnrealEditor-Slate.so!TBaseSPMethodDelegateInstance<false, SMenuEntryBlock, (ESPMode)1, FReply (), FDefaultDelegateUserPolicy>::Execute() const [/home/ruby/Downloads/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h:290]
+libUnrealEditor-Slate.so!SButton::ExecuteOnClick() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Widgets/Input/SButton.cpp:464]
+libUnrealEditor-Slate.so!SButton::OnMouseButtonUp(FGeometry const&, FPointerEvent const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Widgets/Input/SButton.cpp:389]
+libUnrealEditor-Slate.so!SMenuEntryButton::OnMouseButtonUp(FGeometry const&, FPointerEvent const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/MultiBox/SMenuEntryBlock.cpp:431]
+libUnrealEditor-Slate.so!FSlateApplication::RoutePointerUpEvent(FWidgetPath const&, FPointerEvent const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:4998]
+libUnrealEditor-Slate.so!FSlateApplication::ProcessMouseButtonUpEvent(FPointerEvent const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5495]
+libUnrealEditor-Slate.so!FSlateApplication::OnMouseUp(EMouseButtons::Type, UE::Math::TVector2<double>) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5460]
+libUnrealEditor-ApplicationCore.so!FLinuxApplication::ProcessDeferredMessage(SDL_Event) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/ApplicationCore/Private/Linux/LinuxApplication.cpp:398]
+libUnrealEditor-ApplicationCore.so!FLinuxPlatformApplicationMisc::PumpMessages(bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/ApplicationCore/Private/Linux/LinuxPlatformApplicationMisc.cpp:428]
+UnrealEditor!FEngineLoop::Tick() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5133]
+UnrealEditor!GuardedMain(char16_t const*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Launch/Private/Launch.cpp:185]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/home/ruby/Downloads/UnrealEngine/Engine/Source/Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:264]
+libc.so.6!UnknownFunction(0x29349)
+libc.so.6!__libc_start_main(+0x7b)
+UnrealEditor!_start()
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

@@ -1,0 +1,70 @@
+Generating report for minidump
+
+Application version 5.0.1.0
+ ... built from changelist 0
+
+OS version Linux 5.17.5-gentoo (network name: RubyOS.HomeNet)
+Running 6 x86_64 processors (12 logical cores)
+Exception was "Ensure condition failed: Mesh->SkeletalMesh [File:./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp] [Line: 1328]"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-ChaosVehicles.so!UChaosVehicleMovementComponent::LocateBoneOffset(FName, UE::Math::TVector<double> const&) const [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp:1328]
+libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::GetWheelRestingPosition(FChaosWheelSetup const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1574]
+libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::CalculateWheelLayoutDimensions() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1613]
+libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::SetupVehicle(TUniquePtr<Chaos::FSimpleWheeledVehicle, TDefaultDelete<Chaos::FSimpleWheeledVehicle> >&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1413]
+libUnrealEditor-ChaosVehicles.so!UChaosVehicleMovementComponent::CreateVehicle() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp:1359]
+libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::CreateVehicle() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1216]
+libUnrealEditor-ChaosVehicles.so!UChaosVehicleMovementComponent::OnCreatePhysicsState() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp:719]
+libUnrealEditor-Engine.so!UActorComponent::CreatePhysicsState(bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Components/ActorComponent.cpp:1579]
+libUnrealEditor-Engine.so!UActorComponent::ExecuteRegisterEvents(FRegisterComponentContext*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Components/ActorComponent.cpp:1639]
+libUnrealEditor-Engine.so!UActorComponent::RegisterComponentWithWorld(UWorld*, FRegisterComponentContext*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Components/ActorComponent.cpp:1280]
+libUnrealEditor-Engine.so!AActor::IncrementalRegisterComponents(int, FRegisterComponentContext*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:5083]
+libUnrealEditor-Engine.so!AActor::RegisterAllComponents() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:4982]
+libUnrealEditor-Engine.so!AActor::PostSpawnInitialize(UE::Math::TTransform<double> const&, AActor*, APawn*, bool, bool, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:3493]
+libUnrealEditor-Engine.so!UWorld::SpawnActor(UClass*, UE::Math::TTransform<double> const*, FActorSpawnParameters const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/LevelActor.cpp:714]
+libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnAtTransform_Implementation(AController*, UE::Math::TTransform<double> const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1185]
+libUnrealEditor-Engine.so!AGameModeBase::execSpawnDefaultPawnAtTransform(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:53]
+libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:5912]
+libUnrealEditor-CoreUObject.so!UObject::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:2001]
+libUnrealEditor-Engine.so!AActor::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:1030]
+libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnAtTransform(AController*, UE::Math::TTransform<double> const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:349]
+libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnFor_Implementation(AController*, AActor*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1176]
+libUnrealEditor-Engine.so!AGameModeBase::execSpawnDefaultPawnFor(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:62]
+libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:5912]
+libUnrealEditor-CoreUObject.so!UObject::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:2001]
+libUnrealEditor-Engine.so!AActor::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:1030]
+libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnFor(AController*, AActor*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:358]
+libUnrealEditor-Engine.so!AGameModeBase::RestartPlayerAtPlayerStart(AController*, AActor*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1249]
+libUnrealEditor-Engine.so!AGameModeBase::RestartPlayer(AController*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1215]
+libUnrealEditor-Engine.so!AGameModeBase::execHandleStartingNewPlayer(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:157]
+libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:5912]
+libUnrealEditor-CoreUObject.so!UObject::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:2001]
+libUnrealEditor-Engine.so!AActor::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:1030]
+libUnrealEditor-Engine.so!AGameModeBase::HandleStartingNewPlayer(APlayerController*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:264]
+libUnrealEditor-Engine.so!AGameModeBase::PostLogin(APlayerController*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:991]
+libUnrealEditor-Engine.so!UWorld::SpawnPlayActor(UPlayer*, ENetRole, FURL const&, FUniqueNetIdRepl const&, FString&, unsigned char) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/LevelActor.cpp:1026]
+libUnrealEditor-Engine.so!ULocalPlayer::SpawnPlayActor(FString const&, FString&, UWorld*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/LocalPlayer.cpp:305]
+libUnrealEditor-Engine.so!UGameInstance::StartPlayInEditorGameInstance(ULocalPlayer*, FGameInstancePIEParameters const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameInstance.cpp:470]
+libUnrealEditor-UnrealEd.so!UEditorEngine::CreateInnerProcessPIEGameInstance(FRequestPlaySessionParams&, FGameInstancePIEParameters const&, int) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:3050]
+libUnrealEditor-UnrealEd.so!UEditorEngine::OnLoginPIEComplete_Deferred(int, bool, FString, FPieLoginStruct) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1565]
+libUnrealEditor-UnrealEd.so!UEditorEngine::CreateNewPlayInEditorInstance(FRequestPlaySessionParams&, bool, EPlayNetMode) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1824]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartPlayInEditorSession(FRequestPlaySessionParams&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:2792]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequestImpl() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1133]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequest() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1045]
+libUnrealEditor-UnrealEd.so!UEditorEngine::Tick(float, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/EditorEngine.cpp:1664]
+libUnrealEditor-UnrealEd.so!UUnrealEdEngine::Tick(float, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/UnrealEdEngine.cpp:471]
+UnrealEditor!FEngineLoop::Tick() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5209]
+UnrealEditor!GuardedMain(char16_t const*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Launch/Private/Launch.cpp:185]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/home/ruby/Downloads/UnrealEngine/Engine/Source/Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:264]
+libc.so.6!UnknownFunction(0x29349)
+libc.so.6!__libc_start_main(+0x7b)
+UnrealEditor!_start()
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

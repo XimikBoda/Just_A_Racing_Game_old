@@ -1,0 +1,132 @@
+﻿Log file open, 05/20/22 23:32:08
+LogPlatformFile: Not using cached read wrapper
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Build: ++UE5+Release-5.0-CL-0
+LogInit: Engine Version: 5.0.1-0+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-0+++UE5+Release-5.0
+LogInit: Net CL: 0
+LogInit: OS: Gentoo Linux (5.17.5-gentoo), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): May 20 2022 10:01:31
+LogInit: Compiled with Clang: 11.0.1 
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -Abslog="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Logs/Just_A_Racing_Game-CRC.log" "/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Crashes/crashinfo-Just_A_Racing_Game-pid-994803-214EE614CC024285B78C81B78F413BFD/"
+LogInit: Base Directory: /home/ruby/Downloads/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.20-20.32.08:537][  0]LogInit: Unix hardware info:
+[2022.05.20-20.32.08:537][  0]LogInit:  - we are the first instance of this executable
+[2022.05.20-20.32.08:537][  0]LogInit:  - this process' id (pid) is 1006135, parent process' id (ppid) is 994803
+[2022.05.20-20.32.08:537][  0]LogInit:  - we are not running under debugger
+[2022.05.20-20.32.08:537][  0]LogInit:  - machine network name is 'RubyOS.HomeNet'
+[2022.05.20-20.32.08:537][  0]LogInit:  - user name is 'ruby' (ruby)
+[2022.05.20-20.32.08:537][  0]LogInit:  - we're logged in locally
+[2022.05.20-20.32.08:537][  0]LogInit:  - we're running with rendering
+[2022.05.20-20.32.08:537][  0]LogInit:  - CPU: AuthenticAMD 'AMD Ryzen 5 5600H with Radeon Graphics         ' (signature: 0xA50F00)
+[2022.05.20-20.32.08:537][  0]LogInit:  - Number of physical cores available for the process: 6
+[2022.05.20-20.32.08:537][  0]LogInit:  - Number of logical cores available for the process: 12
+[2022.05.20-20.32.08:537][  0]LogInit:  - Cache line size: 64
+[2022.05.20-20.32.08:537][  0]LogInit:  - GPU Info. Card0 PCI-id: 0x1002-0x1638 Card1 PCI-id: 0x10de-0x25e2 NVRM version: NVIDIA UNIX x86_64 Kernel Module  515.43.04  Tue Apr 26 15:52:32 UTC 2022
+[2022.05.20-20.32.08:537][  0]LogInit:  - Memory allocator used: Mimalloc
+[2022.05.20-20.32.08:537][  0]LogInit:  - This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+[2022.05.20-20.32.08:537][  0]LogInit:  - This is an internal build.
+[2022.05.20-20.32.08:537][  0]LogCore: Skipped benchmarking clocks because the engine is running in a standalone program mode - CLOCK_MONOTONIC will be used.
+[2022.05.20-20.32.08:537][  0]LogInit: Unix-specific commandline switches:
+[2022.05.20-20.32.08:537][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2022.05.20-20.32.08:537][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2022.05.20-20.32.08:537][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2022.05.20-20.32.08:537][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2022.05.20-20.32.08:537][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2022.05.20-20.32.08:537][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2022.05.20-20.32.08:537][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2022.05.20-20.32.08:537][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2022.05.20-20.32.08:537][  0]LogInit:  -crashhandlerstacksize - Allows setting crash handler stack sizes (204800)
+[2022.05.20-20.32.08:537][  0]LogInit:  -noexclusivelockonwrite - disables marking files created by the engine as exclusive locked while the engine has them opened
+[2022.05.20-20.32.08:537][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2022.05.20-20.32.08:537][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2022.05.20-20.32.08:537][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2022.05.20-20.32.08:537][  0]LogInit:  - Physical RAM available (not considering process quota): 14 GB (13901 MB, 14235004 KB, 14576644096 bytes)
+[2022.05.20-20.32.08:537][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2022.05.20-20.32.08:537][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2022.05.20-20.32.08:540][  0]LogUObjectArray: 388 objects as part of root set at end of initial load.
+[2022.05.20-20.32.08:540][  0]LogUObjectAllocator: 79472 out of 0 bytes used by permanent object pool.
+[2022.05.20-20.32.08:540][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.20-20.32.08:540][  0]LogInit: Using OS detected language (en-US-POSIX).
+[2022.05.20-20.32.08:540][  0]LogInit: Using OS detected locale (en-US-POSIX).
+[2022.05.20-20.32.08:540][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2022.05.20-20.32.08:553][  0]LogInit: Using OS detected language (en-US-POSIX).
+[2022.05.20-20.32.08:553][  0]LogInit: Using OS detected locale (en-US-POSIX).
+[2022.05.20-20.32.08:553][  0]LogTextLocalizationManager: No localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2022.05.20-20.32.08:553][  0]LogTextLocalizationManager: No localization for 'en-US-POSIX' exists, so 'en' will be used for the locale.
+[2022.05.20-20.32.08:553][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000019 seconds
+[2022.05.20-20.32.08:554][  0]CrashReportCoreLog: CrashReportClientVersion=1.0
+[2022.05.20-20.32.08:554][  0]CrashReportCoreLog: CrashReportReceiver disabled
+[2022.05.20-20.32.08:554][  0]CrashReportCoreLog: DataRouterUrl: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+[2022.05.20-20.32.08:555][  0]LogInit: Initializing SDL.
+[2022.05.20-20.32.09:107][  0]LogInit: Initialized SDL 2.0.20 revision:  (compiled against 2.0.20)
+[2022.05.20-20.32.09:107][  0]LogInit: Using SDL video driver 'x11'
+[2022.05.20-20.32.09:130][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.20-20.32.09:130][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.20-20.32.09:131][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.20-20.32.09:132][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.20-20.32.09:132][  0]LogInit: Using SDL_WINDOW_OPENGL
+[2022.05.20-20.32.09:147][  0]LogInit: FSlateOpenGLContext::Initialize - creating OpenGL 2.1 context
+[2022.05.20-20.32.09:245][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2022.05.20-20.32.09:245][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2022.05.20-20.32.09:253][  0]LogInit: FSlateOpenGLContext::Initialize - creating OpenGL 2.1 context
+[2022.05.20-20.32.09:261][  0]LogSlate: Took 0.001003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.20-20.32.09:262][  0]LogSlate: Took 0.000452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.20-20.32.09:264][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.20-20.32.21:730][  0]CrashReportCoreLog: Got 4 pending files to upload from 'crashinfo-Just_A_Racing_Game-pid-994803-214EE614CC024285B78C81B78F413BFD'
+[2022.05.20-20.32.21:730][  0]CrashReportCoreLog: State change from Ready to SendingFiles
+[2022.05.20-20.32.21:730][  0]CrashReportCoreLog: CompressAndSendData have 4 pending files
+[2022.05.20-20.32.21:730][  0]CrashReportCoreLog: CompressAndSendData compressing 6181 bytes ('/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Crashes/crashinfo-Just_A_Racing_Game-pid-994803-214EE614CC024285B78C81B78F413BFD/Diagnostics.txt')
+[2022.05.20-20.32.21:731][  0]CrashReportCoreLog: CompressAndSendData compressing 32363 bytes ('/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Crashes/crashinfo-Just_A_Racing_Game-pid-994803-214EE614CC024285B78C81B78F413BFD/CrashContext.runtime-xml')
+[2022.05.20-20.32.21:731][  0]CrashReportCoreLog: CompressAndSendData compressing 358458 bytes ('/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Crashes/crashinfo-Just_A_Racing_Game-pid-994803-214EE614CC024285B78C81B78F413BFD/Just_A_Racing_Game.log')
+[2022.05.20-20.32.21:731][  0]CrashReportCoreLog: CompressAndSendData compressing 107 bytes ('/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Crashes/crashinfo-Just_A_Racing_Game-pid-994803-214EE614CC024285B78C81B78F413BFD/CrashReportClient.ini')
+[2022.05.20-20.32.21:751][  0]LogInit: Using libcurl 7.65.3-DEV
+[2022.05.20-20.32.21:751][  0]LogInit:  - built for x86_64-unknown-linux-gnu
+[2022.05.20-20.32.21:751][  0]LogInit:  - supports SSL with OpenSSL/1.1.1c
+[2022.05.20-20.32.21:751][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2022.05.20-20.32.21:751][  0]LogInit:  - other features:
+[2022.05.20-20.32.21:751][  0]LogInit:      CURL_VERSION_SSL
+[2022.05.20-20.32.21:751][  0]LogInit:      CURL_VERSION_LIBZ
+[2022.05.20-20.32.21:751][  0]LogInit:      CURL_VERSION_IPV6
+[2022.05.20-20.32.21:751][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2022.05.20-20.32.21:751][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2022.05.20-20.32.21:751][  0]LogInit:      CURL_VERSION_TLSAUTH_SRP
+[2022.05.20-20.32.21:751][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2022.05.20-20.32.21:751][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2022.05.20-20.32.21:751][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2022.05.20-20.32.21:751][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2022.05.20-20.32.21:751][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+[2022.05.20-20.32.21:751][  0]LogInit:  - LocalHostAddr = Default
+[2022.05.20-20.32.21:751][  0]LogInit:  - BufferSize = 65536
+[2022.05.20-20.32.21:752][  0]CrashReportCoreLog: Sending HTTP request: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?AppID=CrashReporter&AppVersion=5.0.1-0%2B%2B%2BUE5%2BRelease-5.0&AppEnvironment=Release&UploadType=crashreports&UserID=a6b139d376ce5803587618a562303ec1-000003e8%7C%7Ca6b139d376ce5803587618a562303ec1
+[2022.05.20-20.32.23:100][  0]CrashReportCoreLog: OnProcessRequestComplete(), State=SendingFiles bSucceeded=1
+[2022.05.20-20.32.23:100][  0]CrashReportCoreLog: State change from SendingFiles to SendingFiles
+[2022.05.20-20.32.23:100][  0]CrashReportCoreLog: All uploads done
+[2022.05.20-20.32.23:100][  0]CrashReportCoreLog: State change from SendingFiles to Finished
+[2022.05.20-20.32.23:768][  0]LogSlate: Request Window 'UE5-Just_A_Racing_ Crash Reporter' being destroyed
+[2022.05.20-20.32.23:768][  0]LogSlate: Window 'UE5-Just_A_Racing_ Crash Reporter' being destroyed
+[2022.05.20-20.32.23:768][  0]LogCore: Engine exit requested (reason: OnRequestExit)
+[2022.05.20-20.32.23:769][  0]CrashReportCoreLog: Final state (Receiver) = Finished
+[2022.05.20-20.32.23:769][  0]CrashReportCoreLog: Final state (Receiver) = Unknown UploadState value
+[2022.05.20-20.32.23:771][  0]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.20-20.32.23:771][  0]LogCore: Engine exit requested (reason: CrashReportClientApp RequestExit; note: exit was already requested)
+[2022.05.20-20.32.23:771][  0]LogExit: Preparing to exit.
+[2022.05.20-20.32.23:772][  0]LogExit: Object subsystem successfully closed.
+[2022.05.20-20.32.23:772][  0]LogModuleManager: Shutting down and abandoning module HTTP (14)
+[2022.05.20-20.32.23:772][  0]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2022.05.20-20.32.23:797][  0]LogModuleManager: Shutting down and abandoning module SSL (13)
+[2022.05.20-20.32.23:798][  0]LogModuleManager: Shutting down and abandoning module ImageWrapper (10)
+[2022.05.20-20.32.23:798][  0]LogModuleManager: Shutting down and abandoning module InputCore (8)
+[2022.05.20-20.32.23:798][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (6)
+[2022.05.20-20.32.23:798][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.20-20.32.23:798][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.20-20.32.23:799][  0]LogExit: Exiting.
+[2022.05.20-20.32.23:799][  0]LogInit: Tearing down SDL.
+[2022.05.20-20.32.23:807][  0]Log file closed, 05/20/22 23:32:23

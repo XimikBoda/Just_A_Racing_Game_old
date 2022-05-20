@@ -1,0 +1,1506 @@
+﻿Log file open, 05/20/22 21:28:29
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Just_A_Racing_Game
+LogCsvProfiler: Display: Metadata set : platform="Linux"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-0"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-0+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Just_A_Racing_Game.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Gentoo Linux 5.17.5-gentoo"
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a6b139d376ce5803587618a562303ec1-000003e8"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.096213
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Linux-69EAC788F7974E0DBEF9667294938492
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.65.3-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.1.1c
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-0
+LogInit: Engine Version: 5.0.1-0+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-0+++UE5+Release-5.0
+LogInit: Net CL: 0
+LogInit: OS: Gentoo Linux (5.17.5-gentoo), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): May 20 2022 10:20:45
+LogInit: Compiled with Clang: 11.0.1 
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: /home/ruby/Downloads/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.20-18.28.30:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.20-18.28.30:303][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.20-18.28.30:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.20-18.28.30:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.20-18.28.30:304][  0]LogInit: Initializing SDL.
+[2022.05.20-18.28.30:934][  0]LogInit: Initialized SDL 2.0.20 revision:  (compiled against 2.0.20)
+[2022.05.20-18.28.30:934][  0]LogInit: Using SDL video driver 'x11'
+[2022.05.20-18.28.30:939][  0]LogInit: Display metrics:
+[2022.05.20-18.28.30:939][  0]LogInit:   PrimaryDisplayWidth: 1920
+[2022.05.20-18.28.30:939][  0]LogInit:   PrimaryDisplayHeight: 1080
+[2022.05.20-18.28.30:939][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2022.05.20-18.28.30:939][  0]LogInit:     Left=0, Top=44, Right=1920, Bottom=1080
+[2022.05.20-18.28.30:939][  0]LogInit:   VirtualDisplayRect:
+[2022.05.20-18.28.30:939][  0]LogInit:     Left=0, Top=0, Right=3840, Bottom=1080
+[2022.05.20-18.28.30:939][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2022.05.20-18.28.30:939][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2022.05.20-18.28.30:939][  0]LogInit:   Number of monitors: 2
+[2022.05.20-18.28.30:939][  0]LogInit:     Monitor 0
+[2022.05.20-18.28.30:939][  0]LogInit:       Name: 0
+[2022.05.20-18.28.30:939][  0]LogInit:       ID: display0
+[2022.05.20-18.28.30:939][  0]LogInit:       NativeWidth: 1920
+[2022.05.20-18.28.30:939][  0]LogInit:       NativeHeight: 1080
+[2022.05.20-18.28.30:939][  0]LogInit:       bIsPrimary: true
+[2022.05.20-18.28.30:939][  0]LogInit:     Monitor 1
+[2022.05.20-18.28.30:939][  0]LogInit:       Name: RG240Y 24"
+[2022.05.20-18.28.30:939][  0]LogInit:       ID: display1
+[2022.05.20-18.28.30:939][  0]LogInit:       NativeWidth: 1920
+[2022.05.20-18.28.30:939][  0]LogInit:       NativeHeight: 1080
+[2022.05.20-18.28.30:939][  0]LogInit:       bIsPrimary: false
+[2022.05.20-18.28.30:939][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.20-18.28.30:939][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.20-18.28.30:939][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.20-18.28.30:940][  0]LogLinux: Selected Device Profile: [LinuxEditor]
+[2022.05.20-18.28.30:940][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [LinuxEditor]
+[2022.05.20-18.28.30:940][  0]LogHAL: Display: Platform has ~ 14 GB [14576644096 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.20-18.28.30:940][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Linux]
+[2022.05.20-18.28.30:940][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.05.20-18.28.30:940][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.20-18.28.30:940][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.20-18.28.30:946][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.20-18.28.30:946][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Config/LinuxEditor/Editor.ini]
+[2022.05.20-18.28.30:947][  0]LogInit: Unix hardware info:
+[2022.05.20-18.28.30:947][  0]LogInit:  - we are the first instance of this executable
+[2022.05.20-18.28.30:947][  0]LogInit:  - this process' id (pid) is 994803, parent process' id (ppid) is 994802
+[2022.05.20-18.28.30:947][  0]LogInit:  - we are not running under debugger
+[2022.05.20-18.28.30:947][  0]LogInit:  - machine network name is 'RubyOS.HomeNet'
+[2022.05.20-18.28.30:947][  0]LogInit:  - user name is 'ruby' (ruby)
+[2022.05.20-18.28.30:947][  0]LogInit:  - we're logged in locally
+[2022.05.20-18.28.30:947][  0]LogInit:  - we're running with rendering
+[2022.05.20-18.28.30:947][  0]LogInit:  - CPU: AuthenticAMD 'AMD Ryzen 5 5600H with Radeon Graphics         ' (signature: 0xA50F00)
+[2022.05.20-18.28.30:947][  0]LogInit:  - Number of physical cores available for the process: 6
+[2022.05.20-18.28.30:947][  0]LogInit:  - Number of logical cores available for the process: 12
+[2022.05.20-18.28.30:947][  0]LogInit:  - Cache line size: 64
+[2022.05.20-18.28.30:947][  0]LogInit:  - GPU Info. Card0 PCI-id: 0x1002-0x1638 Card1 PCI-id: 0x10de-0x25e2 NVRM version: NVIDIA UNIX x86_64 Kernel Module  515.43.04  Tue Apr 26 15:52:32 UTC 2022
+[2022.05.20-18.28.30:947][  0]LogInit:  - Memory allocator used: Mimalloc
+[2022.05.20-18.28.30:947][  0]LogInit:  - This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+[2022.05.20-18.28.30:947][  0]LogInit:  - This is an internal build.
+[2022.05.20-18.28.30:947][  0]LogCore: Benchmarking clocks:
+[2022.05.20-18.28.30:947][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 957005 (957K, 1M) calls per second without zero deltas.
+[2022.05.20-18.28.30:947][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 941197 (941K, 1M) calls per second without zero deltas.
+[2022.05.20-18.28.30:947][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 195771719 (195772K, 196M) calls per second with 99.999484% zero deltas.
+[2022.05.20-18.28.30:947][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2022.05.20-18.28.30:947][  0]LogCore: The clock source is too slow on this machine, performance may be affected.
+[2022.05.20-18.28.30:947][  0]LogInit: Unix-specific commandline switches:
+[2022.05.20-18.28.30:947][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2022.05.20-18.28.30:947][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2022.05.20-18.28.30:947][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2022.05.20-18.28.30:947][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2022.05.20-18.28.30:947][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2022.05.20-18.28.30:947][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2022.05.20-18.28.30:947][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2022.05.20-18.28.30:947][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2022.05.20-18.28.30:947][  0]LogInit:  -crashhandlerstacksize - Allows setting crash handler stack sizes (204800)
+[2022.05.20-18.28.30:947][  0]LogInit:  -noexclusivelockonwrite - disables marking files created by the engine as exclusive locked while the engine has them opened
+[2022.05.20-18.28.30:947][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2022.05.20-18.28.30:947][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2022.05.20-18.28.30:947][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2022.05.20-18.28.30:947][  0]LogInit:  - Physical RAM available (not considering process quota): 14 GB (13901 MB, 14235004 KB, 14576644096 bytes)
+[2022.05.20-18.28.30:947][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2022.05.20-18.28.30:947][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2022.05.20-18.28.30:947][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.20-18.28.30:954][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.20-18.28.31:032][  0]LogInit: Using OS detected language (en-US-POSIX).
+[2022.05.20-18.28.31:032][  0]LogInit: Using OS detected locale (en-US-POSIX).
+[2022.05.20-18.28.31:034][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2022.05.20-18.28.31:241][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.20-18.28.31:241][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.20-18.28.31:666][  0]LogInit: Using SDL_WINDOW_VULKAN
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: - Found 9 instance layers
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_KHRONOS_validation
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_MESA_device_select
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_MESA_overlay
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_NV_optimus
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_OBS_vkcapture_64
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_VALVE_steam_fossilize_32
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_VALVE_steam_fossilize_64
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_VALVE_steam_overlay_32
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_LAYER_VALVE_steam_overlay_64
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: - Found 20 instance extensions
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_EXT_acquire_drm_display
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_EXT_acquire_xlib_display
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_EXT_debug_report
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_EXT_debug_utils
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_EXT_direct_mode_display
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_EXT_display_surface_counter
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_EXT_validation_features
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_device_group_creation
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_display
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_external_fence_capabilities
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore_capabilities
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_get_display_properties2
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_get_surface_capabilities2
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_portability_enumeration
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_surface_protected_capabilities
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_xcb_surface
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_xlib_surface
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: Not using instance layers
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: Using instance extensions
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_xlib_surface
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2022.05.20-18.28.31:696][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: Found 2 device(s)
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: Device 0: AMD RADV RENOIR
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: - API 1.3.211(0x4030d3) Driver 0x5801063 VendorId 0x1002
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: - DeviceID 0x1638 Type Integrated GPU
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 32 Timestamps 1
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: - Device Properties driverName: radv
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: - Device Properties driverInfo: Mesa 22.2.0-devel (git-66888d5121)
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_MESA_device_select
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_NV_optimus
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_buffer_marker
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_device_coherent_memory
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_draw_indirect_count
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_gcn_shader
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_gpu_shader_half_float
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_gpu_shader_int16
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_memory_overallocation_behavior
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_mixed_attachment_samples
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_shader_ballot
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_shader_core_properties
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_shader_core_properties2
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_shader_explicit_vertex_parameter
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_shader_fragment_mask
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_shader_image_load_store_lod
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_shader_trinary_minmax
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_AMD_texture_gather_bias_lod
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_4444_formats
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_buffer_device_address
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_calibrated_timestamps
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_color_write_enable
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conservative_rasterization
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_custom_border_color
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_control
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_enable
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_range_unrestricted
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_discard_rectangles
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_display_control
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state2
+[2022.05.20-18.28.31:704][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_dma_buf
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority_query
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_host_query_reset
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_drm_format_modifier
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_robustness
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_view_min_lod
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_index_type_uint8
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_line_rasterization
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_budget
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_priority
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_multi_draw
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pci_bus_info
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_physical_device_drm
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_cache_control
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_feedback
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_primitive_topology_list_restart
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_private_data
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_provoking_vertex
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_queue_family_foreign
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_robustness2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sample_locations
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_scalar_block_layout
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_separate_stencil_usage
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_atomic_float
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_atomic_float2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_demote_to_helper_invocation
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_image_atomic_int64
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_stencil_export
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_subgroup_size_control
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_texel_buffer_alignment
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_transform_feedback
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_input_dynamic_state
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_image_arrays
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_GOOGLE_decorate_string
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_GOOGLE_hlsl_functionality1
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_GOOGLE_user_type
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_buffer_device_address
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_copy_commands2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_deferred_host_operations
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_depth_stencil_resolve
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_driver_properties
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dynamic_rendering
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_fd
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_fd
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_fd
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_format_feature_flags2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_imageless_framebuffer
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_incremental_present
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance4
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_executable_properties
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_library
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_separate_depth_stencil_layouts
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_atomic_int64
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_clock
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float16_int8
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float_controls
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_integer_dot_product
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_non_semantic_info
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_extended_types
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_uniform_control_flow
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_terminate_invocation
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_spirv_1_4
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain_mutable_format
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_synchronization2
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_timeline_semaphore
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_uniform_buffer_standard_layout
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_vulkan_memory_model
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_workgroup_memory_explicit_layout
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_zero_initialize_workgroup_memory
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_compute_shader_derivatives
+[2022.05.20-18.28.31:705][  0]LogVulkanRHI: Display: -    Found device extension VK_VALVE_mutable_descriptor_type
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: Device 1: NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: - API 1.3.205(0x4030cd) Driver 0x80cac100 VendorId 0x10de
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: - DeviceID 0x25e2 Type Discrete GPU
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 32 Timestamps 1
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: - Device Properties driverName: NVIDIA
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: - Device Properties driverInfo: 515.43.04
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_MESA_device_select
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_NV_optimus
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_4444_formats
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_blend_operation_advanced
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_border_color_swizzle
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_buffer_device_address
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_calibrated_timestamps
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_color_write_enable
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conservative_rasterization
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_custom_border_color
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_control
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_enable
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_range_unrestricted
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_discard_rectangles
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_display_control
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_dma_buf
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_fragment_shader_interlock
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority_query
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_host_query_reset
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_drm_format_modifier
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_robustness
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_view_min_lod
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_index_type_uint8
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_line_rasterization
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_load_store_op_none
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_budget
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_multi_draw
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pci_bus_info
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_physical_device_drm
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_cache_control
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_feedback
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_post_depth_coverage
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_primitive_topology_list_restart
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_private_data
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_provoking_vertex
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_queue_family_foreign
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_robustness2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sample_locations
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_scalar_block_layout
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_separate_stencil_usage
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_atomic_float
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_demote_to_helper_invocation
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_image_atomic_int64
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_subgroup_size_control
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_texel_buffer_alignment
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_tooling_info
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_transform_feedback
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_input_dynamic_state
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_2plane_444_formats
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_image_arrays
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_acceleration_structure
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_buffer_device_address
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_copy_commands2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_deferred_host_operations
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_depth_stencil_resolve
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_driver_properties
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dynamic_rendering
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_fd
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_fd
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_fd
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_format_feature_flags2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_fragment_shading_rate
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_global_priority
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_imageless_framebuffer
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance4
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_executable_properties
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_library
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_present_id
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_present_wait
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_ray_query
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_ray_tracing_pipeline
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_separate_depth_stencil_layouts
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_atomic_int64
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_clock
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float16_int8
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float_controls
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_integer_dot_product
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_non_semantic_info
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_extended_types
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_uniform_control_flow
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_terminate_invocation
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_spirv_1_4
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain_mutable_format
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_synchronization2
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_timeline_semaphore
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_uniform_buffer_standard_layout
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_vulkan_memory_model
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_workgroup_memory_explicit_layout
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_zero_initialize_workgroup_memory
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_clip_space_w_scaling
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_compute_shader_derivatives
+[2022.05.20-18.28.31:706][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_cooperative_matrix
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_corner_sampled_image
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_coverage_reduction_mode
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_cuda_kernel_launch
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation_image_aliasing
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostic_checkpoints
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostics_config
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_generated_commands
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fill_rectangle
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_coverage_to_color
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_shader_barycentric
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_shading_rate_enums
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_framebuffer_mixed_samples
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_geometry_shader_passthrough
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_inherited_viewport_scissor
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_linear_color_attachment
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_mesh_shader
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_ray_tracing
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_ray_tracing_motion_blur
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_representative_fragment_test
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_sample_mask_override_coverage
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_scissor_exclusive
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_image_footprint
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_sm_builtins
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_subgroup_partitioned
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shading_rate_image
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_array2
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_swizzle
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_binary_import
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_image_view_handle
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_multiview_per_view_attributes
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: Using Device 1: Geometry 1 BufferAtomic64 1 ImageAtomic64 1
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: Found 3 Queue Families
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: Initializing Queue Family 0: 16 queues Gfx Compute Xfer Sparse
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: Initializing Queue Family 1: 2 queues Xfer Sparse
+[2022.05.20-18.28.31:707][  0]LogVulkanRHI: Display: Skipping unnecessary Queue Family 2: 8 queues Compute Xfer Sparse
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: Using device layers
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: Using device extensions
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_driver_properties
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_get_memory_requirements2
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_dedicated_allocation
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_create_renderpass2
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_fragment_shading_rate
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_swapchain
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_maintenance1
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_maintenance2
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_EXT_memory_budget
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_shader_atomic_int64
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_EXT_shader_image_atomic_int64
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_KHR_image_format_list
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: * VK_EXT_shader_viewport_index_layer
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: Max memory allocations -1.
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: 2 Device Memory Heaps:
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display:   0: Flags 0x1 - Size 4294967296 (4096.00 MB) - Used 0 (0.00%) - DeviceLocal - PrimaryHeap
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display:   1: Flags 0x0 - Size 10932483072 (10426.03 MB) - Used 0 (0.00%)
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: 5 Device Memory Types (Not unified):
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display:   1: Flags 0x00001 - Heap  0 -  DeviceLocal                                         
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display:   4: Flags 0x00007 - Heap  0 -  DeviceLocal HostVisible HostCoherent                
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display:   0: Flags 0x00000 - Heap  1 -                                                      
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display:   2: Flags 0x00006 - Heap  1 -              HostVisible HostCoherent                
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display:   3: Flags 0x0000e - Heap  1 -              HostVisible HostCoherent HostCached     
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: Memory Budget Extension:
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: 	         | Usage                      | Budget           | Size             |
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: 	---------|------------------------------------------------------------------|
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: 	 HEAP 00 |   0.03% /          1.25 MB |       3833.88 MB |       4096.00 MB |
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: 	 HEAP 01 |   0.22% /         23.29 MB |      10426.03 MB |      10426.03 MB |
+[2022.05.20-18.28.31:809][  0]LogVulkanRHI: Display: 	---------|------------------------------------------------------------------|
+[2022.05.20-18.28.31:828][  0]LogVulkanRHI: Display: FVulkanPipelineStateCacheManager: Binary pipeline cache '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/VulkanPSO.cache.10de.25e2' not found.
+[2022.05.20-18.28.31:828][  0]LogVulkanRHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.05.20-18.28.31:828][  0]LogVulkanRHI:      API Version: 1.3.205
+[2022.05.20-18.28.31:828][  0]LogVulkanRHI:   Driver Version: 515.43
+[2022.05.20-18.28.31:834][  0]LogRHI: Texture pool is 2867 MB (70% of 4096 MB)
+[2022.05.20-18.28.31:837][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Just_A_Racing_Game.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Intermediate/TurnkeyReport_0.log" -log="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Intermediate/TurnkeyLog_0.log" -project="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Just_A_Racing_Game.uproject"  -platform=all'
+[2022.05.20-18.28.31:838][  0]LogMonitoredProcess: Running Serialized UAT: [ /usr/bin/env  -- "/home/ruby/Downloads/UnrealEngine/Engine/Build/BatchFiles/RunUAT.sh"  -ScriptsForProject="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Just_A_Racing_Game.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Intermediate/TurnkeyReport_0.log" -log="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Intermediate/TurnkeyLog_0.log" -project="/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Just_A_Racing_Game.uproject"  -platform=all ]
+[2022.05.20-18.28.31:850][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.20-18.28.31:850][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: liboo2texlinux64.2.9.5.so
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.20-18.28.31:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.20-18.28.31:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.20-18.28.31:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.20-18.28.31:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.20-18.28.31:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.20-18.28.31:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.20-18.28.31:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.20-18.28.31:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.20-18.28.31:880][  0]LogTargetPlatformManager: Display: Building Assets For LinuxEditor
+[2022.05.20-18.28.31:880][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.20-18.28.31:882][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.20-18.28.31:882][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.20-18.28.31:882][  0]LogTargetPlatformManager:   PCM
+[2022.05.20-18.28.31:882][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.20-18.28.31:882][  0]LogTargetPlatformManager:   BINKA
+[2022.05.20-18.28.31:885][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.20-18.28.31:885][  0]LogTargetPlatformManager:   OGG
+[2022.05.20-18.28.31:887][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.20-18.28.31:887][  0]LogTargetPlatformManager:   OPUS
+[2022.05.20-18.28.31:887][  0]LogTargetPlatformManager: Unable to find shader format SF_VULKAN_ES31_ANDROID from hinted modules, loading all potential format modules to find it
+[2022.05.20-18.28.31:898][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.20-18.28.31:898][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.20-18.28.31:898][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.20-18.28.31:899][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.20-18.28.31:899][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.20-18.28.31:903][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.20-18.28.31:903][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.20-18.28.31:903][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.20-18.28.31:903][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.20-18.28.31:903][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.20-18.28.31:903][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.20-18.28.31:903][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Code Workspace/Unity/Just_A_Racing_Game/Intermediate/ShaderAutogen/SF_VULKAN_SM5/AutogenShaderHeaders.ush
+[2022.05.20-18.28.31:904][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.20-18.28.31:904][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Code Workspace/Unity/Just_A_Racing_Game/Intermediate/ShaderAutogen/SF_VULKAN_ES31/AutogenShaderHeaders.ush
+[2022.05.20-18.28.31:905][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.20-18.28.31:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Code Workspace/Unity/Just_A_Racing_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.20-18.28.31:905][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.20-18.28.31:906][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.20-18.28.31:906][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchy Hierarchy.
+[2022.05.20-18.28.31:910][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.00 seconds
+[2022.05.20-18.28.31:910][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=256.65MBs, RandomWriteSpeed=1019.88MBs. Assigned SpeedClass 'Local'
+[2022.05.20-18.28.31:910][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2022.05.20-18.28.31:910][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.20-18.28.31:910][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.20-18.28.31:919][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.20-18.28.31:919][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.20-18.28.31:919][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../Code Workspace/Unity/Just_A_Racing_Game/Intermediate/Shaders/WorkingDirectory/994803/).
+[2022.05.20-18.28.31:920][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Intermediate/Shaders/tmp/7C1E7BEE1BF144539D87E216344CFA6B/'.
+[2022.05.20-18.28.31:920][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.05.20-18.28.33:975][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.20-18.28.33:975][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.20-18.28.33:976][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.20-18.28.34:011][  0]LogAssetRegistry: FAssetRegistry took 0.0069 seconds to start up
+[2022.05.20-18.28.34:016][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.20-18.28.34:175][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.20-18.28.34:175][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.20-18.28.34:329][  0]LogLinux: Selected Device Profile: [LinuxEditor]
+[2022.05.20-18.28.34:329][  0]LogDeviceProfileManager: Active device profile: [0x88217faa2c0][0x882184bc800 50] LinuxEditor
+[2022.05.20-18.28.34:329][  0]LogDeviceProfileManager: Profiles: [0x88217fa9300][0x88210960000 50] Windows, [0x88217fa9840][0x88210962800 50] WindowsEditor, [0x88217fa8880][0x8820a260000 50] WindowsServer, [0x88217fa5240][0x882108f5000 50] WindowsClient, [0x88217fa9a00][0x8820e7aa000 50] IOS, [0x88217fa4ec0][0x882108fa000 50] iPadAir2, [0x88217fa7540][0x88218402800 50] IPadPro, [0x88217fa9f40][0x88218400000 50] iPadAir3, [0x88217fa5b00][0x88218407800 50] iPadAir4, [0x88217fa7700][0x8821840a000 50] iPadMini4, [0x88217fa6ac0][0x8821840c800 50] iPadMini5, [0x88217fa6580][0x881fd987800 50] iPadMini6, [0x88217faccc0][0x88218465000 50] iPhone6S, [0x88217fad040][0x88218462800 50] iPhone7, [0x88217fad3c0][0x88218460000 50] iPodTouch7, [0x88217fa5780][0x8821846a000 50] iPhone6SPlus, [0x88217fa4440][0x8821846c800 50] iPhone7Plus, [0x88217fa8a40][0x88218405000 50] iPhoneSE, [0x88217fa9140][0x88218440000 50] iPhone8, [0x88217fa5080][0x88218445000 50] iPhone8Plus, [0x88217fa7a80][0x88218447800 50] iPhoneX, [0x88217fa6740][0x8821844a000 50] iPhoneXS, [0x88217faa9c0][0x8821844c800 50] iPhoneXSMax, [0x88217faaf00][0x88218467800 50] iPhoneXR, [0x88217fa8dc0][0x882183b0000 50] iPhone11, [0x88217fa8340][0x882183b5000 50] iPhone11Pro, [0x88217fac400][0x882183b7800 50] iPhone11ProMax, [0x88217fa6e40][0x882183ba000 50] iPhoneSE2, [0x88217fa55c0][0x882183bc800 50] iPhone12Mini, [0x88217fabd00][0x88218442800 50] iPhone12, [0x88217fa3f00][0x882183c0000 50] iPhone12Pro, [0x88217fa8f80][0x882183c5000 50] iPhone12ProMax, [0x88217fac240][0x882183c7800 50] iPhone13Mini, [0x88217fad900][0x882183ca000 50] iPhone13, [0x88217fa6c80][0x882183cc800 50] iPhone13Pro, [0x88217fad740][0x882183b2800 50] iPhone13ProMax, [0x88217fabec0][0x88218480000 50] iPadPro105, [0x88217fa8180][0x88218485000 50] iPadPro129, [0x88217fabb40][0x88218487800 50] iPadPro97, [0x88217faa100][0x8821848a000 50] iPadPro2_129, [0x88217fac5c0][0x8821848c800 50] iPad5, [0x88217fa7e00][0x882183c2800 50] iPad6, [0x88217fa9bc0][0x88218490000 50] iPad7, [0x88217fa78c0][0x88218495000 50] iPad8, [0x88217faa800][0x88218497800 50] iPad9, [0x88217fa6900][0x8821849a000 50] iPadPro11, [0x88217fa5e80][0x8821849c800 50] iPadPro2_11, [0x88217facb00][0x88218482800 50] iPadPro3_11, [0x88217fab280][0x882184a0000 50] iPadPro3_129, [0x88217fa9680][0x882184a5000 50] iPadPro4_129, [0x88217fa7fc0][0x882184a7800 50] iPadPro5_129, [0x88217fac780][0x882184aa000 50] AppleTV, [0x88217fa86c0][0x882184ac800 50] AppleTV4K, [0x88217fa63c0][0x88218492800 50] TVOS, [0x88217faefc0][0x882184b2800 50] Mac, [0x88217faf340][0x882184b0000 50] MacEditor, [0x88217faea80][0x882184b7800 50] MacClient, [0x88217fab0c0][0x882184ba000 50] MacServer, [0x88217fa6200][0x882184a2800 50] Linux, [0x88217faa2c0][0x882184bc800 50] LinuxEditor, [0x88217faf500][0x882184c0000 50] LinuxArm64Editor, [0x88217fa71c0][0x882184c5000 50] LinuxArm64, [0x88217fab600][0x882184c7800 50] LinuxClient, [0x88217fae540][0x882184ca000 50] LinuxArm64Client, [0x88217fad200][0x882184cc800 50] LinuxServer, [0x88217fae000][0x882184b5000 50] LinuxArm64Server, [0x88217fae380][0x882184d0000 50] Android, [0x88217fae1c0][0x882184d5000 50] Android_Preview_OpenGL, [0x88217fa7380][0x882184d7800 50] Android_Preview_Vulkan, [0x88217fac940][0x882184da000 50] Android_Low, [0x88217faa480][0x882184dc800 50] Android_Mid, [0x88217fadac0][0x882184c2800 50] Android_High, [0x88217fae8c0][0x882184e0000 50] Android_Default, [0x88217fab980][0x882184e5000 50] Android_Adreno4xx, [0x88217fadc80][0x882184e7800 50] Android_Adreno5xx_Low, [0x88217fab440][0x882184ea000 50] Android_Adreno5xx, [0x88217fa5400][0x882184ec800 50] Android_Adreno6xx, [0x88217fa4600][0x882184d2800 50] Android_Adreno6xx_Vulkan, [0x88217fad580][0x882184f0000 50] Android_Adreno7xx, [0x88217faee00][0x882184f5000 50] Android_Adreno7xx_Vulkan, [0x88217fa7c40][0x882184f7800 50] Android_Mali_T6xx, [0x88217fa5940][0x882184fa000 50] Android_Mali_T7xx, [0x88217fa8c00][0x882184fc800 50] Android_Mali_T8xx, [0x88217fafdc0][0x882184e2800 50] Android_Mali_G71, [0x88217fab7c0][0x88218500000 50] Android_Mali_G72, [0x88218530000][0x88218505000 50] Android_Mali_G72_Vulkan, [0x88218532300][0x88218507800 50] Android_Mali_G76, [0x882185301c0][0x8821850a000 50] Android_Mali_G76_Vulkan, [0x88218530380][0x8821850c800 50] Android_Mali_G77, [0x88218531500][0x882184f2800 50] Android_Mali_G77_Vulkan, [0x88218531340][0x88218510000 50] Android_Mali_G78, [0x88218531f80][0x88218515000 50] Android_Mali_G78_Vulkan, [0x88218532d80][0x88218517800 50] Android_Mali_G710, [0x882185324c0][0x8821851a000 50] Android_Mali_G710_Vulkan, [0x88218530a80][0x8821851c800 50] Android_Xclipse_920, [0x88218531880][0x88218502800 50] Android_Xclipse_920_Vulkan, [0x88218533d40][0x88218520000 50] Android_Vulkan_SM5, [0x88218532bc0][0x88218525000 50] Android_PowerVR_G6xxx, [0x88218533480][0x88218527800 50] Android_PowerVR_GT7xxx, [0x88218532f40][0x8821852a000 50] Android_PowerVR_GE8xxx, [0x88218530540][0x8821852c800 50] Android_PowerVR_GM9xxx, [0x88218532a00][0x88218512800 50] Android_PowerVR_GM9xxx_Vulkan, [0x88218534980][0x88218540000 50] Android_TegraK1, [0x882185339c0][0x88218545000 50] Android_Unknown_Vulkan, [0x88218530c40][0x88218547800 50] Oculus_Quest, [0x88218534d00][0x8821854a000 50] Oculus_Quest2, [0x88218534280][0x8821854c800 50] HoloLens, 
+[2022.05.20-18.28.34:329][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="LinuxEditor"
+[2022.05.20-18.28.34:343][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Valid, Installed=v19_clang-11.0.1-centos7, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Valid, Installed=v19_clang-11.0.1-centos7, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: Mac: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.28.34:353][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.20-18.28.34:526][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.20-18.28.34:526][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.20-18.28.34:526][  0]LogMeshReduction: No automatic mesh merging module available
+[2022.05.20-18.28.34:526][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.20-18.28.34:526][  0]LogMeshMerging: No automatic mesh merging module available
+[2022.05.20-18.28.34:526][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.20-18.28.34:539][  0]LogNetVersion: Just_A_Racing_Game 1.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3368356521)
+[2022.05.20-18.28.34:675][  0]LogSlate: Border
+[2022.05.20-18.28.34:675][  0]LogSlate: BreadcrumbButton
+[2022.05.20-18.28.34:675][  0]LogSlate: Default
+[2022.05.20-18.28.34:675][  0]LogSlate: Icons.Save
+[2022.05.20-18.28.34:675][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.20-18.28.34:675][  0]LogSlate: ListView
+[2022.05.20-18.28.34:675][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.20-18.28.34:675][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.20-18.28.34:675][  0]LogSlate: TableView.DarkRow
+[2022.05.20-18.28.34:675][  0]LogSlate: TableView.Row
+[2022.05.20-18.28.34:675][  0]LogSlate: TreeView
+[2022.05.20-18.28.34:933][  0]SourceControl: Source control is disabled
+[2022.05.20-18.28.34:959][  0]SourceControl: Source control is disabled
+[2022.05.20-18.28.34:959][  0]SourceControl: Source control is disabled
+[2022.05.20-18.28.35:088][  0]LogUObjectArray: 20590 objects as part of root set at end of initial load.
+[2022.05.20-18.28.35:088][  0]LogUObjectAllocator: 5584968 out of 0 bytes used by permanent object pool.
+[2022.05.20-18.28.35:088][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.20-18.28.35:093][  0]LogHAL: Linux SourceCodeAccessSettings: VisualStudioCode
+[2022.05.20-18.28.35:394][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7F59B4565D014589BC15FEA8C0ED4417 | Instance: 2D1E51781BF14D84BFA422705D63A1E0 (RubyOS.HomeNet-994803).
+[2022.05.20-18.28.35:461][  0]LogPython: Using Python 3.9.7
+[2022.05.20-18.28.36:045][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.20-18.28.36:047][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.20-18.28.36:105][  0]LogUProjectInfo: Found projects:
+[2022.05.20-18.28.40:149][  0]LogUnixPlatformFile: Warning: Cannot determine whether '/home/ruby/.steampath' is a directory - d_type not supported and stat() failed with errno=2 (No such file or directory)
+[2022.05.20-18.28.40:948][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.20-18.28.40:969][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.20-18.28.40:970][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.20-18.28.41:058][  0]LogCollectionManager: Loaded 0 collections in 0.001170 seconds
+[2022.05.20-18.28.41:150][  0]LogFileCache: Scanning file cache for directory '/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Saved/Collections/' took 0.00s
+[2022.05.20-18.28.41:150][  0]LogFileCache: Scanning file cache for directory '/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Content/Developers/ruby/Collections/' took 0.00s
+[2022.05.20-18.28.41:150][  0]LogFileCache: Scanning file cache for directory '/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Content/Collections/' took 0.00s
+[2022.05.20-18.28.41:596][  0]LogEngine: Initializing Engine...
+[2022.05.20-18.28.41:601][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.20-18.28.41:601][  0]LogStylusInput: StylusInput not supported on this platform.
+[2022.05.20-18.28.41:602][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.20-18.28.41:868][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.20-18.28.41:868][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-18.28.41:875][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.28.41:894][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.20-18.28.41:900][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.20-18.28.41:900][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.20-18.28.41:900][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.20-18.28.41:900][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.20-18.28.41:901][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.20-18.28.41:901][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.20-18.28.41:901][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-18.28.41:901][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-18.28.41:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-18.28.41:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-18.28.41:901][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.20-18.28.41:901][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-18.28.41:901][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.20-18.28.41:901][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-18.28.41:901][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-18.28.41:901][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-18.28.41:901][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-18.28.41:911][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2022.05.20-18.28.41:911][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2022.05.20-18.28.42:034][  0]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2022.05.20-18.28.42:043][  0]LogAudioMixer: Display: Using Audio Hardware Device Default Audio Device
+[2022.05.20-18.28.42:044][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-18.28.42:048][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-18.28.42:048][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-18.28.42:049][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=1
+[2022.05.20-18.28.42:049][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.20-18.28.42:049][  0]LogInit: FAudioDevice initialized.
+[2022.05.20-18.28.42:049][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.20-18.28.42:049][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.20-18.28.42:049][  0]LogInit: Texture streaming: Enabled
+[2022.05.20-18.28.42:061][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-0+++UE5+Release-5.0
+[2022.05.20-18.28.42:066][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.20-18.28.42:082][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.20-18.28.42:092][  0]LogInit: Transaction tracking system initialized
+[2022.05.20-18.28.42:146][  0]BlueprintLog: New page: Editor Load
+[2022.05.20-18.28.42:258][  0]LocalizationService: Localization service is disabled
+[2022.05.20-18.28.42:302][  0]TimingProfiler: Initialize
+[2022.05.20-18.28.42:302][  0]TimingProfiler: OnSessionChanged
+[2022.05.20-18.28.42:302][  0]LoadingProfiler: Initialize
+[2022.05.20-18.28.42:302][  0]LoadingProfiler: OnSessionChanged
+[2022.05.20-18.28.42:302][  0]NetworkingProfiler: Initialize
+[2022.05.20-18.28.42:302][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.20-18.28.42:302][  0]MemoryProfiler: Initialize
+[2022.05.20-18.28.42:302][  0]MemoryProfiler: OnSessionChanged
+[2022.05.20-18.28.43:225][  0]LogFileCache: Scanning file cache for directory '/home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Content/' took 0.00s
+[2022.05.20-18.28.43:225][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.20-18.28.43:274][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.20-18.28.43:276][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.725
+[2022.05.20-18.28.43:276][  0]Cmd: MAP LOAD FILE="../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.20-18.28.43:277][  0]LightingResults: New page: Lighting Build
+[2022.05.20-18.28.43:282][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-18.28.43:282][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-18.28.43:282][  0]MapCheck: New page: Map Check
+[2022.05.20-18.28.43:282][  0]LightingResults: New page: Lighting Build
+[2022.05.20-18.28.43:286][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.20-18.28.43:287][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.20-18.28.43:451][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.05.20-18.28.43:457][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.05.20-18.28.43:464][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.05.20-18.28.43:484][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.20-18.28.43:484][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-18.28.43:484][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.28.43:484][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.20-18.28.43:488][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.20-18.28.43:493][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.20-18.28.43:494][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.20-18.28.43:494][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085765ms to complete.
+[2022.05.20-18.28.43:494][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.218
+[2022.05.20-18.28.43:520][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.969
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: ================================================
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.20-18.28.43:520][  0]LogShaderCompilers: Display: ================================================
+[2022.05.20-18.28.43:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.28.43:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.28.43:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.28.43:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.28.43:755][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:755][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:756][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:756][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:757][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:757][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:758][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:758][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:758][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:758][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:759][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:759][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:760][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:760][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:761][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_VehicleAdv.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:761][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:761][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:761][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:762][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:762][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:763][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_Puzzle.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:763][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:764][  0]LogPakFile: Display: Mounted Pak file '/home/ruby/Downloads/UnrealEngine/FeaturePacks/TP_PuzzleBP.upack', mount point: 'root:/'
+[2022.05.20-18.28.43:764][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Display: Requested PixelFormat 18 not supported by this swapchain! Falling back to supported swapchain format...
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Display: Found 2 Surface present modes:
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_KHR (2)
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_IMMEDIATE_KHR (0)
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Display: Selected VkPresentModeKHR mode 2
+[2022.05.20-18.28.43:823][  0]LogVulkanRHI: Creating new VK swapchain with present mode 2, format 44, color space 0, num images 3
+[2022.05.20-18.28.43:863][  0]LogLoad: (Engine Initialization) Total time: 15.31 seconds
+[2022.05.20-18.28.43:863][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.20-18.28.43:884][  0]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.20-18.28.43:888][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.20-18.28.43:937][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.20-18.28.43:996][  0]LogAssetRegistry: Asset discovery search completed in 9.9853 seconds
+[2022.05.20-18.28.44:005][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.05.20-18.28.44:028][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.20-18.30.32:209][418]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.072 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.20-18.34.57:556][213]LogSlate: Took 0.006192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.20-18.34.57:563][213]LogSlate: Took 0.000066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.20-18.35.04:238][391]LogUnixPlatformFile: Warning: Cannot determine whether '/home/ruby/.steampath' is a directory - d_type not supported and stat() failed with errno=2 (No such file or directory)
+[2022.05.20-18.35.04:721][391]LogUnixPlatformFile: Warning: Cannot determine whether '/home/ruby/.steampath' is a directory - d_type not supported and stat() failed with errno=2 (No such file or directory)
+[2022.05.20-18.35.10:569][391]LogSlate: Window 'Open File' being destroyed
+[2022.05.20-18.35.11:300][391]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 /home/ruby/Desktop/NewCar.fbx)
+[2022.05.20-18.35.11:333][391]LogFbx: Loading FBX Scene from /home/ruby/Desktop/NewCar.fbx
+[2022.05.20-18.35.11:345][391]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.20-18.35.28:927][391]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.20-18.35.47:209][391]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.20-18.35.47:251][391]LogFbx: Valid bind pose for Pose (Plane.003) - Body
+[2022.05.20-18.35.47:251][391]LogFbx: Valid bind pose for Pose (Cylinder.010) - Body
+[2022.05.20-18.35.47:251][391]LogFbx: Valid bind pose for Pose (Cylinder.009) - Body
+[2022.05.20-18.35.47:251][391]LogFbx: Valid bind pose for Pose (Cylinder.008) - Body
+[2022.05.20-18.35.47:251][391]LogFbx: Valid bind pose for Pose (Cylinder.003) - Body
+[2022.05.20-18.35.47:253][391]LogFbx: Triangulating skeletal mesh FrontRightWheel
+[2022.05.20-18.35.47:256][391]LogFbx: Triangulating skeletal mesh RearRightWheel
+[2022.05.20-18.35.47:258][391]LogFbx: Triangulating skeletal mesh RearLeftWheel
+[2022.05.20-18.35.47:261][391]LogFbx: Triangulating skeletal mesh FrontLeftWheel
+[2022.05.20-18.35.47:266][391]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2022.05.20-18.35.47:377][391]LogSkeletalMesh: Section 0: Material=0, 4708 triangles
+[2022.05.20-18.35.47:377][391]LogSkeletalMesh: Section 1: Material=1, 98 triangles
+[2022.05.20-18.35.47:399][391]LogSkeletalMesh: Building Skeletal Mesh NewCar...
+[2022.05.20-18.35.47:399][391]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (NewCar) ...
+[2022.05.20-18.35.47:482][391]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar.NewCar
+[2022.05.20-18.35.47:482][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.35.47:484][391]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-18.35.47:484][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-18.36.04:679][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.20-18.36.07:299][433]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.20-18.36.07:326][433]LogUObjectGlobals: Force Deleting 18 Package(s):
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/BackWheel.BackWheel
+	Asset Type: Blueprint
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP.CarBP
+	Asset Type: Blueprint
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/FrontWheel.FrontWheel
+	Asset Type: Blueprint
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearRightWheel_Skeleton.Free_Racing_Car_Red_RearRightWheel_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearRightWheel_PhysicsAsset.Free_Racing_Car_Red_RearRightWheel_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red.Free_Racing_Car_Red_RearRightWheel
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearLeftWheel_Skeleton.Free_Racing_Car_Red_RearLeftWheel_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearLeftWheel_PhysicsAsset.Free_Racing_Car_Red_RearLeftWheel_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red.Free_Racing_Car_Red_RearLeftWheel
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_FrontRightWheel_Skeleton.Free_Racing_Car_Red_FrontRightWheel_Skeleton
+	Asset Type: Skeleton
+[2022.05.20-18.36.07:451][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: ================================================
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.20-18.36.08:097][433]LogShaderCompilers: Display: ================================================
+[2022.05.20-18.36.08:116][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.20-18.36.08:122][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.20-18.36.08:127][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.05.20-18.36.10:200][433]SourceControl: Error: Updated 1 path from the index
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_Body_PhysicsAsset.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_Body_Skeleton.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_FrontLeftWheel_PhysicsAsset.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_FrontLeftWheel_Skeleton.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_FrontRightWheel_PhysicsAsset.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_FrontRightWheel_Skeleton.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearLeftWheel_PhysicsAsset.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearLeftWheel_Skeleton.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearRightWheel_PhysicsAsset.uasset'
+[2022.05.20-18.36.11:330][433]SourceControl: rm 'Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_RearRightWheel_Skeleton.uasset'
+[2022.05.20-18.36.11:357][433]LogAssetRegistry: Warning: /home/ruby/Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/Free_Racing_Car_Red_Body_Skeleton.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.05.20-18.38.44:051][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.05.20-18.38.44:053][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.006
+[2022.05.20-18.38.44:053][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ARCADE_FREE_Racing_Car/TestImport/GameMode] ([2] browsable assets)...
+[2022.05.20-18.38.44:053][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/ARCADE_FREE_Racing_Car/TestImport/GameMode]
+[2022.05.20-18.38.44:064][371]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.010485 seconds
+[2022.05.20-18.38.44:066][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/GameMode_Auto1
+[2022.05.20-18.38.44:066][371]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/GameMode_Auto193ED7ED4AAC54BED99E8D8C887AD5BD0.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/GameMode_Auto1.uasset'
+[2022.05.20-18.38.44:067][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar] ([1] browsable assets)...
+[2022.05.20-18.38.44:080][371]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar.NewCar]
+[2022.05.20-18.38.44:080][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar]
+[2022.05.20-18.38.44:098][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_Auto1
+[2022.05.20-18.38.44:098][371]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar_Auto13AD2F93507164483BD21D4ED55DF269C.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_Auto1.uasset'
+[2022.05.20-18.38.44:098][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_Skeleton] ([1] browsable assets)...
+[2022.05.20-18.38.44:109][371]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_Skeleton.NewCar_Skeleton]
+[2022.05.20-18.38.44:109][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_Skeleton]
+[2022.05.20-18.38.44:111][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_Skeleton_Auto1
+[2022.05.20-18.38.44:111][371]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar_Skeleton_Auto1219A0F6347B84E508BA3BAEFF0748724.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_Skeleton_Auto1.uasset'
+[2022.05.20-18.38.44:111][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset] ([1] browsable assets)...
+[2022.05.20-18.38.44:121][371]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset.NewCar_PhysicsAsset]
+[2022.05.20-18.38.44:121][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset]
+[2022.05.20-18.38.44:124][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset_Auto1
+[2022.05.20-18.38.44:124][371]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar_PhysicsAsset_Auto1FE91E82CC5E147EEB87D83A92EC40ED2.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset_Auto1.uasset'
+[2022.05.20-18.38.44:124][371]LogFileHelpers: Auto-saving content packages took 0.071
+[2022.05.20-18.39.05:359][730]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar.NewCar
+[2022.05.20-18.39.05:376][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.39.05:405][730]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.05.20-18.39.05:426][730]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.20-18.39.05:721][731]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.20-18.42.50:299][233]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset.NewCar_PhysicsAsset
+[2022.05.20-18.42.50:314][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-18.42.50:319][233]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.05.20-18.42.50:534][233]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.20-18.43.06:160][581]SourceControl: fatal: /Script: '/Script' is outside repository at '/home/ruby/Code Workspace/Unity/Just_A_Racing_Game'
+[2022.05.20-18.43.42:390][738]LogHttp: Warning: 0x8824229eb00: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B362030B9-4D2D-4AC0-9A43-6A356923515B%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=5.0.1-0%2B%2B%2BUE5%2BRelease-5.0&UserID=a6b139d376ce5803587618a562303ec1-000003e8%7C%7Ca6b139d376ce5803587618a562303ec1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: 0x8824229eb00: request failed, libcurl error: 0 (No error)
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: 0x8824229eb00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x88203820a20 [serially])
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: 0x8824229eb00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: 0x8824229eb00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (174.129.185.184) port 443 (#1))
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: 0x8824229eb00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: 0x8824229eb00: libcurl info message cache 4 (Closing connection 1)
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: 0x8824229eb00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2022.05.20-18.43.42:515][739]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B362030B9-4D2D-4AC0-9A43-6A356923515B%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=5.0.1-0%2B%2B%2BUE5%2BRelease-5.0&UserID=a6b139d376ce5803587618a562303ec1-000003e8%7C%7Ca6b139d376ce5803587618a562303ec1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.20-18.48.44:453][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.20-18.48.44:457][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2022.05.20-18.48.44:458][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset] ([1] browsable assets)...
+[2022.05.20-18.48.44:458][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset]
+[2022.05.20-18.48.44:459][869]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset_Auto2
+[2022.05.20-18.48.44:459][869]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar_PhysicsAsset_Auto28071404FD29B4652AD3DFBC7E6A2BDDF.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset_Auto2.uasset'
+[2022.05.20-18.48.44:460][869]LogFileHelpers: Auto-saving content packages took 0.003
+[2022.05.20-18.59.37:918][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.20-18.59.37:919][380]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.007
+[2022.05.20-18.59.37:920][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset] ([1] browsable assets)...
+[2022.05.20-18.59.37:920][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset]
+[2022.05.20-18.59.37:922][380]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset_Auto3
+[2022.05.20-18.59.37:922][380]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar_PhysicsAsset_Auto3969A2554F3494144871BBAF313C23736.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset_Auto3.uasset'
+[2022.05.20-18.59.37:922][380]LogFileHelpers: Auto-saving content packages took 0.003
+[2022.05.20-19.02.01:183][245]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2022.05.20-19.02.01:183][245]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.05.20-19.02.01:184][245]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.05.20-19.02.01:185][245]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.05.20-19.05.16:628][285]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset
+[2022.05.20-19.05.16:628][285]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar_PhysicsAsset9C9CC7C39E344AE0B901F80CBCC9FA8A.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset.uasset'
+[2022.05.20-19.05.17:748][285]AssetCheck: New page: Asset Save: NewCar_PhysicsAsset
+[2022.05.20-19.05.17:748][285]LogContentValidation: Display: Validating PhysicsAsset /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset.NewCar_PhysicsAsset
+[2022.05.20-19.05.55:828][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.05.55:841][954]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.05.55:842][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.06.23:250][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.06.23:267][937]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.06.23:267][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.06.31:114][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.06.31:127][177]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.06.31:127][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.07.15:782][ 46]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset
+[2022.05.20-19.07.15:782][ 46]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar_PhysicsAsset440DC2C6E5FE4F0DB3D28A7E2E8FCE15.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset.uasset'
+[2022.05.20-19.07.15:837][ 46]AssetCheck: New page: Asset Save: NewCar_PhysicsAsset
+[2022.05.20-19.07.15:837][ 46]LogContentValidation: Display: Validating PhysicsAsset /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar_PhysicsAsset.NewCar_PhysicsAsset
+[2022.05.20-19.07.16:476][ 69]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.07.16:477][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.07.18:755][123]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar
+[2022.05.20-19.07.18:755][123]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/NewCar6847DC90FF0C4EDD8A378F58C70CDF56.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/NewCar.uasset'
+[2022.05.20-19.07.19:879][123]AssetCheck: New page: Asset Save: NewCar
+[2022.05.20-19.07.19:879][123]LogContentValidation: Display: Validating SkeletalMesh /Game/ARCADE_FREE_Racing_Car/TestImport/NewCar.NewCar
+[2022.05.20-19.07.38:404][420]LogSlate: Window 'NewCar' being destroyed
+[2022.05.20-19.07.38:427][420]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.07.38:427][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.08.12:064][125]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.20-19.08.26:209][125]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.20-19.08.26:220][125]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.05.20-19.08.26:233][125]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.05.20-19.08.26:256][126]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.05.20-19.08.31:295][428]LogContentBrowser: Attempting asset rename: NewBlueprint -> CarBP
+[2022.05.20-19.08.31:897][428]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.05.20-19.08.32:390][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP.CarBP
+[2022.05.20-19.08.32:390][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.08.51:325][167]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.08.53:791][287]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.09.00:966][388]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.09.05:551][618]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.09.09:065][796]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.09.17:211][205]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.09.26:489][658]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.10.58:781][698]BlueprintLog: New page: Compile CarBP
+[2022.05.20-19.10.58:870][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.05.20-19.11.00:115][722]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP
+[2022.05.20-19.11.00:115][722]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/CarBP8E3C8F40051C4D16A7B0656AABE87D54.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/CarBP.uasset'
+[2022.05.20-19.11.01:226][722]AssetCheck: New page: Asset Save: CarBP
+[2022.05.20-19.11.01:226][722]LogContentValidation: Display: Validating Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP.CarBP
+[2022.05.20-19.12.59:942][ 28]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.13.00:671][ 63]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.05.20-19.18.08:447][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.05.20-19.18.08:451][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.031
+[2022.05.20-19.18.08:451][710]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ARCADE_FREE_Racing_Car/TestImport/CarBP] ([2] browsable assets)...
+[2022.05.20-19.18.08:465][710]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP.CarBP]
+[2022.05.20-19.18.08:465][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/ARCADE_FREE_Racing_Car/TestImport/CarBP]
+[2022.05.20-19.18.08:470][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/CarBP_Auto4
+[2022.05.20-19.18.08:470][710]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/CarBP_Auto4AE535736C49149029CF1E82A35206DB8.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/Autosaves/Game/ARCADE_FREE_Racing_Car/TestImport/CarBP_Auto4.uasset'
+[2022.05.20-19.18.08:471][710]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.05.20-19.19.16:395][687]LogSlate: Window 'Torque Curve - Internal Curve Editor' being destroyed
+[2022.05.20-19.19.42:232][660]BlueprintLog: New page: Compile CarBP
+[2022.05.20-19.19.42:368][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.05.20-19.19.44:358][724]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP
+[2022.05.20-19.19.44:359][724]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/CarBPDE58C8CD75CB4924980B0601216E29AC.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/CarBP.uasset'
+[2022.05.20-19.19.44:392][724]AssetCheck: New page: Asset Save: CarBP
+[2022.05.20-19.19.44:392][724]LogContentValidation: Display: Validating Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP.CarBP
+[2022.05.20-19.20.00:522][467]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.20-19.20.08:951][467]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.20-19.20.08:966][467]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.05.20-19.20.08:993][467]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.05.20-19.20.09:013][468]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.05.20-19.20.13:841][704]LogContentBrowser: Attempting asset rename: NewBlueprint -> FrontWheel
+[2022.05.20-19.20.14:436][704]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.05.20-19.20.17:796][852]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.20-19.20.17:796][852]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.20-19.20.18:978][917]LogContentBrowser: Deferred new asset file creation: FrontWheel1
+[2022.05.20-19.20.19:009][917]LogContentBrowser: Creating deferred item: FrontWheel1
+[2022.05.20-19.20.19:061][918]LogContentBrowser: Renaming the item being created (Deferred Item: FrontWheel1).
+[2022.05.20-19.20.22:812][ 58]LogContentBrowser: Attempting asset rename: FrontWheel1 -> RearWheel
+[2022.05.20-19.20.23:420][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.05.20-19.20.24:065][ 58]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/RearWheel
+[2022.05.20-19.20.24:065][ 58]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/RearWheelB32112C957834018BDCFC1ED5B32D379.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/RearWheel.uasset'
+[2022.05.20-19.20.25:790][ 58]LogContentBrowser: End creating deferred item FrontWheel1
+[2022.05.20-19.20.25:809][ 58]AssetCheck: New page: Asset Save: RearWheel
+[2022.05.20-19.20.25:809][ 58]LogContentValidation: Display: Validating Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/RearWheel.RearWheel
+[2022.05.20-19.20.27:230][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/FrontWheel.FrontWheel
+[2022.05.20-19.20.27:230][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.20.27:614][120]LogEditCondition: Error: EditCondition parsing failed: Field name "bNewWheelSimulation" was not found in class "ChaosVehicleWheel".
+[2022.05.20-19.20.32:199][348]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/RearWheel.RearWheel
+[2022.05.20-19.20.32:199][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.22.51:437][906]BlueprintLog: New page: Compile FrontWheel
+[2022.05.20-19.22.51:490][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.05.20-19.22.52:530][924]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/FrontWheel
+[2022.05.20-19.22.52:530][924]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/FrontWheelBDF4184447894CA083D2793A6E05E539.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/FrontWheel.uasset'
+[2022.05.20-19.22.53:649][924]AssetCheck: New page: Asset Save: FrontWheel
+[2022.05.20-19.22.53:650][924]LogContentValidation: Display: Validating Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/FrontWheel.FrontWheel
+[2022.05.20-19.23.05:014][530]BlueprintLog: New page: Compile RearWheel
+[2022.05.20-19.23.05:062][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.05.20-19.23.06:289][562]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/RearWheel
+[2022.05.20-19.23.06:289][562]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/RearWheelBA91E57369BE45298220C96FCB167AA9.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/RearWheel.uasset'
+[2022.05.20-19.23.06:345][562]AssetCheck: New page: Asset Save: RearWheel
+[2022.05.20-19.23.06:345][562]LogContentValidation: Display: Validating Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/RearWheel.RearWheel
+[2022.05.20-19.23.09:477][708]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.20-19.23.21:931][362]BlueprintLog: New page: Compile CarBP
+[2022.05.20-19.23.22:035][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.20-19.23.23:258][388]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP
+[2022.05.20-19.23.23:258][388]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/CarBPC18C9E31C972488DA948112C8A110D77.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/CarBP.uasset'
+[2022.05.20-19.23.23:291][388]AssetCheck: New page: Asset Save: CarBP
+[2022.05.20-19.23.23:291][388]LogContentValidation: Display: Validating Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/CarBP.CarBP
+[2022.05.20-19.23.23:901][420]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.23.23:901][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.23.24:378][441]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.23.24:378][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.23.24:914][470]LogSlate: Window 'RearWheel' being destroyed
+[2022.05.20-19.23.24:957][470]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.23.24:957][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.23.45:789][728]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/GameMode.GameMode
+[2022.05.20-19.23.45:790][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.23.50:551][951]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.20-19.23.54:836][182]BlueprintLog: New page: Compile GameMode
+[2022.05.20-19.23.54:887][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.20-19.23.56:013][207]LogSavePackage: Moving output files for package: /Game/ARCADE_FREE_Racing_Car/TestImport/GameMode
+[2022.05.20-19.23.56:014][207]LogSavePackage: Moving '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Saved/GameModeF36EDB09636C47E6A7A8B603DD31243D.tmp' to '../../../../../Code Workspace/Unity/Just_A_Racing_Game/Content/ARCADE_FREE_Racing_Car/TestImport/GameMode.uasset'
+[2022.05.20-19.23.56:071][207]AssetCheck: New page: Asset Save: GameMode
+[2022.05.20-19.23.56:071][207]LogContentValidation: Display: Validating Blueprint /Game/ARCADE_FREE_Racing_Car/TestImport/GameMode.GameMode
+[2022.05.20-19.23.57:366][280]LogSlate: Window 'GameMode' being destroyed
+[2022.05.20-19.23.57:398][280]LogSlate: Window 'GameMode' being destroyed
+[2022.05.20-19.23.57:401][280]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-19.23.57:401][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-19.24.01:036][505]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.20-19.24.01:043][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-19.24.01:044][505]PIE: New page: PIE session: Minimal_Default (May 21, 2022, 1:24:01 AM)
+[2022.05.20-19.24.01:050][505]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.20-19.24.01:050][505]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.20-19.24.01:051][505]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.20-19.24.01:059][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007376s)
+[2022.05.20-19.24.01:059][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007942s)
+[2022.05.20-19.24.01:059][505]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-19.24.01:061][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-19.24.01:063][505]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.20-19.24.01:063][505]LogPlayLevel: PIE: World Init took: (0.004509s)
+[2022.05.20-19.24.01:079][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.20-19.24.01:099][505]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.20-19.24.01:100][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-19.24.01:100][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-19.24.01:100][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-19.24.01:100][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-19.24.01:100][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.20-19.24.01:100][505]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-19.24.01:100][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.20-19.24.01:100][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-19.24.01:101][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-19.24.01:101][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-19.24.01:101][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-19.24.01:101][505]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2022.05.20-19.24.01:101][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2022.05.20-19.24.01:227][505]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2022.05.20-19.24.01:236][505]LogAudioMixer: Display: Using Audio Hardware Device Default Audio Device
+[2022.05.20-19.24.01:238][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-19.24.01:238][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-19.24.01:238][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-19.24.01:238][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2022.05.20-19.24.01:238][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.20-19.24.01:238][505]LogInit: FAudioDevice initialized.
+[2022.05.20-19.24.01:238][505]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.05.20-19.24.01:246][505]LogLoad: Game class is 'GameMode_C'
+[2022.05.20-19.24.01:249][505]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.20-22.24.01
+[2022.05.20-19.24.01:249][505]LogWorld: Bringing up level for play took: 0.003548
+[2022.05.20-19.24.01:250][505]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.05.20-19.24.01:277][505]LogOutputDevice: Warning: 
+
+Script Stack (3 frames):
+GameModeBase.SpawnDefaultPawnAtTransform
+GameModeBase.SpawnDefaultPawnFor
+GameModeBase.HandleStartingNewPlayer
+
+[2022.05.20-19.24.01:280][505]LogCore: 0x00007f019034c472 Dladdr: 0.055664ms Open: 0.420654ms Search: 0.407803ms
+[2022.05.20-19.24.01:280][505]LogCore: 0x00007f0190360419 Dladdr: 0.031429ms Open: 0.016133ms Search: 0.291099ms
+[2022.05.20-19.24.01:280][505]LogCore: 0x00007f019035f80f Dladdr: 0.027238ms Open: 0.013759ms Search: 0.011035ms
+[2022.05.20-19.24.01:280][505]LogCore: 0x00007f019035edca Dladdr: 0.009987ms Open: 0.006216ms Search: 0.011035ms
+[2022.05.20-19.24.01:280][505]LogCore: 0x00007f019034c4fb Dladdr: 0.007264ms Open: 0.005168ms Search: 0.011384ms
+[2022.05.20-19.24.01:280][505]LogCore: 0x00007f019035d9b2 Dladdr: 0.005168ms Open: 0.004819ms Search: 0.011594ms
+[2022.05.20-19.24.01:280][505]LogCore: 0x00007f019034a106 Dladdr: 0.005377ms Open: 0.003353ms Search: 0.011873ms
+[2022.05.20-19.24.01:283][505]LogCore: 0x00007f02ad7e3db9 Dladdr: 0.199118ms Open: 0.291447ms Search: 2.170877ms
+[2022.05.20-19.24.01:284][505]LogCore: 0x00007f02ad7d5d8e Dladdr: 0.158819ms Open: 0.013898ms Search: 0.682001ms
+[2022.05.20-19.24.01:284][505]LogCore: 0x00007f02ad7e0b29 Dladdr: 0.161752ms Open: 0.009149ms Search: 0.057689ms
+[2022.05.20-19.24.01:286][505]LogCore: 0x00007f02ad2bbc0e Dladdr: 0.137657ms Open: 0.008032ms Search: 1.296534ms
+[2022.05.20-19.24.01:286][505]LogCore: 0x00007f02ad2bb0e0 Dladdr: 0.129975ms Open: 0.011733ms Search: 0.018159ms
+[2022.05.20-19.24.01:287][505]LogCore: 0x00007f02ad2ae203 Dladdr: 0.139612ms Open: 0.005727ms Search: 0.373931ms
+[2022.05.20-19.24.01:288][505]LogCore: 0x00007f02adefb3af Dladdr: 0.188571ms Open: 0.005169ms Search: 1.025689ms
+[2022.05.20-19.24.01:289][505]LogCore: 0x00007f02adc96aa1 Dladdr: 0.179701ms Open: 0.006775ms Search: 1.209651ms
+[2022.05.20-19.24.01:291][505]LogCore: 0x00007f02af65f744 Dladdr: 0.205543ms Open: 0.009498ms Search: 1.670324ms
+[2022.05.20-19.24.01:293][505]LogCore: 0x00007f02b08cdd3b Dladdr: 0.020324ms Open: 0.400959ms Search: 1.670603ms
+[2022.05.20-19.24.01:295][505]LogCore: 0x00007f02b0b761ac Dladdr: 0.021232ms Open: 0.007124ms Search: 1.257352ms
+[2022.05.20-19.24.01:295][505]LogCore: 0x00007f02ad29a284 Dladdr: 0.118311ms Open: 0.008032ms Search: 0.263092ms
+[2022.05.20-19.24.01:295][505]LogCore: 0x00007f02af660910 Dladdr: 0.204705ms Open: 0.006216ms Search: 0.157492ms
+[2022.05.20-19.24.01:296][505]LogCore: 0x00007f02adc96a29 Dladdr: 0.182216ms Open: 0.005168ms Search: 0.016064ms
+[2022.05.20-19.24.01:296][505]LogCore: 0x00007f02af65f831 Dladdr: 0.206032ms Open: 0.004679ms Search: 0.016413ms
+[2022.05.20-19.24.01:296][505]LogCore: 0x00007f02b08cdd3b Dladdr: 0.020952ms Open: 0.004749ms Search: 0.028565ms
+[2022.05.20-19.24.01:296][505]LogCore: 0x00007f02b0b761ac Dladdr: 0.020044ms Open: 0.003283ms Search: 0.014457ms
+[2022.05.20-19.24.01:296][505]LogCore: 0x00007f02ad29a284 Dladdr: 0.116775ms Open: 0.004749ms Search: 0.017321ms
+[2022.05.20-19.24.01:297][505]LogCore: 0x00007f02af660960 Dladdr: 0.219022ms Open: 0.004749ms Search: 0.016623ms
+[2022.05.20-19.24.01:297][505]LogCore: 0x00007f02adc9708c Dladdr: 0.180679ms Open: 0.004261ms Search: 0.016343ms
+[2022.05.20-19.24.01:297][505]LogCore: 0x00007f02adc96c9b Dladdr: 0.170133ms Open: 0.004889ms Search: 0.016482ms
+[2022.05.20-19.24.01:297][505]LogCore: 0x00007f02af66012b Dladdr: 0.200794ms Open: 0.004190ms Search: 0.016134ms
+[2022.05.20-19.24.01:297][505]LogCore: 0x00007f02b08cdd3b Dladdr: 0.019975ms Open: 0.004260ms Search: 0.014387ms
+[2022.05.20-19.24.01:297][505]LogCore: 0x00007f02b0b761ac Dladdr: 0.020533ms Open: 0.003842ms Search: 0.014247ms
+[2022.05.20-19.24.01:298][505]LogCore: 0x00007f02ad29a284 Dladdr: 0.115587ms Open: 0.004331ms Search: 0.016133ms
+[2022.05.20-19.24.01:298][505]LogCore: 0x00007f02af660582 Dladdr: 0.271334ms Open: 0.004330ms Search: 0.015854ms
+[2022.05.20-19.24.01:299][505]LogCore: 0x00007f02adc8dd15 Dladdr: 0.191156ms Open: 0.004749ms Search: 0.331467ms
+[2022.05.20-19.24.01:299][505]LogCore: 0x00007f02adf016c0 Dladdr: 0.181657ms Open: 0.004330ms Search: 0.188851ms
+[2022.05.20-19.24.01:300][505]LogCore: 0x00007f02adf93019 Dladdr: 0.243466ms Open: 0.006635ms Search: 0.355492ms
+[2022.05.20-19.24.01:300][505]LogCore: 0x00007f02adc8738a Dladdr: 0.172787ms Open: 0.005378ms Search: 0.439023ms
+[2022.05.20-19.24.01:302][505]LogCore: 0x00007f02a8a0df73 Dladdr: 0.071447ms Open: 0.515289ms Search: 1.496210ms
+[2022.05.20-19.24.01:303][505]LogCore: 0x00007f02a8a02159 Dladdr: 0.070260ms Open: 0.009918ms Search: 0.261835ms
+[2022.05.20-19.24.01:303][505]LogCore: 0x00007f02a8a03f80 Dladdr: 0.069701ms Open: 0.006216ms Search: 0.016134ms
+[2022.05.20-19.24.01:303][505]LogCore: 0x00007f02a8a09164 Dladdr: 0.064813ms Open: 0.004679ms Search: 0.056432ms
+[2022.05.20-19.24.01:303][505]LogCore: 0x00007f02a89ffa28 Dladdr: 0.058736ms Open: 0.005169ms Search: 0.018647ms
+[2022.05.20-19.24.01:304][505]LogCore: 0x00007f02a89ff2b5 Dladdr: 0.062927ms Open: 0.004889ms Search: 0.474362ms
+[2022.05.20-19.24.01:305][505]LogCore: 0x00007f02a823fbd8 Dladdr: 0.061530ms Open: 0.008172ms Search: 1.393264ms
+[2022.05.20-19.24.01:307][505]LogCore: 0x00007f02a8e35ef1 Dladdr: 0.073752ms Open: 0.005657ms Search: 1.330756ms
+[2022.05.20-19.24.01:308][505]LogCore: 0x000000000023bd89 Dladdr: 0.003841ms Open: 0.297803ms Search: 0.581639ms
+[2022.05.20-19.24.01:308][505]LogCore: 0x000000000024a259 Dladdr: 0.002444ms Open: 0.006635ms Search: 0.010895ms
+[2022.05.20-19.24.01:308][505]LogCore: 0x00007f02a6daa2eb Dladdr: 0.001467ms Open: 0.440209ms Search: 0.007264ms
+[2022.05.20-19.24.01:308][505]LogCore: 0x00007f02a6b17349 Dladdr: 0.013549ms Open: 0.009778ms Search: 0.002863ms
+[2022.05.20-19.24.01:308][505]LogCore: 0x00007f02a6b173fb Dladdr: 0.012222ms Open: 0.002933ms Search: 0.000978ms
+[2022.05.20-19.24.01:309][505]LogCore: 0x00000000002346d8 Dladdr: 0.002863ms Open: 0.005378ms Search: 0.011314ms
+[2022.05.20-19.24.01:309][505]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.031 s
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: 
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: Ensure condition failed: Mesh->SkeletalMesh [File:./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp] [Line: 1328]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: Expected skeletal mesh when locating bone offset. Asset might be missing references.
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: Stack: 
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f019034c473 libUnrealEditor-ChaosVehicles.so!UChaosVehicleMovementComponent::LocateBoneOffset(FName, UE::Math::TVector<double> const&) const [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp:1328]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f019036041a libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::GetWheelRestingPosition(FChaosWheelSetup const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1574]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f019035f810 libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::CalculateWheelLayoutDimensions() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1613]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f019035edcb libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::SetupVehicle(TUniquePtr<Chaos::FSimpleWheeledVehicle, TDefaultDelete<Chaos::FSimpleWheeledVehicle> >&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1413]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f019034c4fc libUnrealEditor-ChaosVehicles.so!UChaosVehicleMovementComponent::CreateVehicle() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp:1359]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f019035d9b3 libUnrealEditor-ChaosVehicles.so!UChaosWheeledVehicleMovementComponent::CreateVehicle() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosWheeledVehicleMovementComponent.cpp:1216]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f019034a107 libUnrealEditor-ChaosVehicles.so!UChaosVehicleMovementComponent::OnCreatePhysicsState() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Plugins/Experimental/ChaosVehiclesPlugin/Source/ChaosVehicles/Private/ChaosVehicleMovementComponent.cpp:719]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad7e3dba libUnrealEditor-Engine.so!UActorComponent::CreatePhysicsState(bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Components/ActorComponent.cpp:1579]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad7d5d8f libUnrealEditor-Engine.so!UActorComponent::ExecuteRegisterEvents(FRegisterComponentContext*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Components/ActorComponent.cpp:1639]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad7e0b2a libUnrealEditor-Engine.so!UActorComponent::RegisterComponentWithWorld(UWorld*, FRegisterComponentContext*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Components/ActorComponent.cpp:1280]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad2bbc0f libUnrealEditor-Engine.so!AActor::IncrementalRegisterComponents(int, FRegisterComponentContext*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:5083]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad2bb0e1 libUnrealEditor-Engine.so!AActor::RegisterAllComponents() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:4982]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad2ae204 libUnrealEditor-Engine.so!AActor::PostSpawnInitialize(UE::Math::TTransform<double> const&, AActor*, APawn*, bool, bool, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:3493]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adefb3b0 libUnrealEditor-Engine.so!UWorld::SpawnActor(UClass*, UE::Math::TTransform<double> const*, FActorSpawnParameters const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/LevelActor.cpp:714]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adc96aa2 libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnAtTransform_Implementation(AController*, UE::Math::TTransform<double> const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1185]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02af65f745 libUnrealEditor-Engine.so!AGameModeBase::execSpawnDefaultPawnAtTransform(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:53]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02b08cdd3c libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:5912]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02b0b761ad libUnrealEditor-CoreUObject.so!UObject::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:2001]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad29a285 libUnrealEditor-Engine.so!AActor::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:1030]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02af660911 libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnAtTransform(AController*, UE::Math::TTransform<double> const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:349]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adc96a2a libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnFor_Implementation(AController*, AActor*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1176]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02af65f832 libUnrealEditor-Engine.so!AGameModeBase::execSpawnDefaultPawnFor(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:62]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02b08cdd3c libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:5912]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02b0b761ad libUnrealEditor-CoreUObject.so!UObject::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:2001]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad29a285 libUnrealEditor-Engine.so!AActor::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:1030]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02af660961 libUnrealEditor-Engine.so!AGameModeBase::SpawnDefaultPawnFor(AController*, AActor*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:358]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adc9708d libUnrealEditor-Engine.so!AGameModeBase::RestartPlayerAtPlayerStart(AController*, AActor*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1249]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adc96c9c libUnrealEditor-Engine.so!AGameModeBase::RestartPlayer(AController*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:1215]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02af66012c libUnrealEditor-Engine.so!AGameModeBase::execHandleStartingNewPlayer(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:157]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02b08cdd3c libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:5912]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02b0b761ad libUnrealEditor-CoreUObject.so!UObject::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:2001]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02ad29a285 libUnrealEditor-Engine.so!AActor::ProcessEvent(UFunction*, void*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/Actor.cpp:1030]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02af660583 libUnrealEditor-Engine.so!AGameModeBase::HandleStartingNewPlayer(APlayerController*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./../Intermediate/Build/Linux/B4D820EA/UnrealEditor/Inc/Engine/GameModeBase.gen.cpp:264]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adc8dd16 libUnrealEditor-Engine.so!AGameModeBase::PostLogin(APlayerController*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:991]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adf016c1 libUnrealEditor-Engine.so!UWorld::SpawnPlayActor(UPlayer*, ENetRole, FURL const&, FUniqueNetIdRepl const&, FString&, unsigned char) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/LevelActor.cpp:1026]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adf9301a libUnrealEditor-Engine.so!ULocalPlayer::SpawnPlayActor(FString const&, FString&, UWorld*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/LocalPlayer.cpp:305]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02adc8738b libUnrealEditor-Engine.so!UGameInstance::StartPlayInEditorGameInstance(ULocalPlayer*, FGameInstancePIEParameters const&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Engine/Private/GameInstance.cpp:470]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a8a0df74 libUnrealEditor-UnrealEd.so!UEditorEngine::CreateInnerProcessPIEGameInstance(FRequestPlaySessionParams&, FGameInstancePIEParameters const&, int) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:3050]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a8a0215a libUnrealEditor-UnrealEd.so!UEditorEngine::OnLoginPIEComplete_Deferred(int, bool, FString, FPieLoginStruct) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1565]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a8a03f81 libUnrealEditor-UnrealEd.so!UEditorEngine::CreateNewPlayInEditorInstance(FRequestPlaySessionParams&, bool, EPlayNetMode) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1824]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a8a09165 libUnrealEditor-UnrealEd.so!UEditorEngine::StartPlayInEditorSession(FRequestPlaySessionParams&) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:2792]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a89ffa29 libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequestImpl() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1133]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a89ff2b6 libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequest() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1045]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a823fbd9 libUnrealEditor-UnrealEd.so!UEditorEngine::Tick(float, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/EditorEngine.cpp:1664]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a8e35ef2 libUnrealEditor-UnrealEd.so!UUnrealEdEngine::Tick(float, bool) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/UnrealEdEngine.cpp:471]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x000000000023bd8a UnrealEditor!FEngineLoop::Tick() [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5209]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x000000000024a25a UnrealEditor!GuardedMain(char16_t const*) [/home/ruby/Downloads/UnrealEngine/Engine/Source/./Runtime/Launch/Private/Launch.cpp:185]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a6daa2ec libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/home/ruby/Downloads/UnrealEngine/Engine/Source/Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:264]
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a6b1734a libc.so.6!UnknownFunction(0x29349)
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00007f02a6b173fc libc.so.6!__libc_start_main(+0x7b)
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: [Callstack] 0x00000000002346d9 UnrealEditor!_start()
+[2022.05.20-19.24.01:309][505]LogOutputDevice: Error: 
+[2022.05.20-19.24.01:311][505]LogStats:                SubmitErrorReport -  0.000 s
